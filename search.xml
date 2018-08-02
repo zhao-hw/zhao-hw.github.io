@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>微信支付</title>
+      <link href="/2018/05/28/wechatpay/"/>
+      <url>/2018/05/28/wechatpay/</url>
+      <content type="html"><![CDATA[<p>微信支付可以说是这个项目最重要的一部分了，也是最有区别度，最有逼格的一部分，然而<br><img src="https://i.imgur.com/U2aGUBx.png" alt=""></p><p>而且测试号也没有接口权限，顺便仔细看了看接口权限，发现网页授权也需要认证，wtf！本来还打算之后用正式账号，这么看来还是只能用测试号，难受，没办法，就先跳过吧，不过文档，视频都看过了，真要上手搞微信支付慢慢来，弄出来也不是很难，以后再说吧</p>]]></content>
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>咸鱼翻身第一步</title>
+      <link href="/2018/05/20/springboot/"/>
+      <url>/2018/05/20/springboot/</url>
+      <content type="html"><![CDATA[<p>今天开始做一个Spring Boot构建的微信点餐项目，涉及到了Spring Boot，微信支付，微信网页授权，微信模板推送，nginx，redis，分布式session，websocket，都是第一次玩，希望能顺利搞完吧，不要遇上诡异的bug</p><p>好久没写代码了，这学期开学好懒，什么都不想干，只想做咸鱼，这个项目做完，然后开始准备简历和面试，争取暑假可以找到工作吧</p><p>(写博客想找个Spring Boot的图片做封面，官网上居然一张图都没有，网上的也不清楚，没办法，自己用ps画了一张，除了字体有点丑，其他还行吧)</p>]]></content>
+      
+      <categories>
+          
+          <category> 碎碎念 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/2018/04/17/first-blog/"/>
+      <url>/2018/04/17/first-blog/</url>
+      <content type="html"><![CDATA[<p>今天凌晨把博客上线了，刚开始不知道怎么想的，想着在阿里云服务器上装node.js，hexo，把本地的hexo传过去，然后hexo server一下就搞定了，等我全弄好了才想起来，反正是静态页面，我为什么要装这些啊，直接把本地的public里面的内容传过去不就好了吗，真是蠢，阿里云网速还贼慢，10k左右，node.js装了好久好久……</p><p>(想找个好看的favicon找不到，没办法，自己模仿node.js的图标画了一个，大一学的ps还是有用的……顺便还把阿里云的logo和备案信息放上了，下次把标签和分类搞一下，就这样)</p>]]></content>
+      
+      <categories>
+          
+          <category> 大事件 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/04/16/hello-world/"/>
+      <url>/2018/04/16/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title></title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><ul><li><p>慢性子</p></li><li><p>喜欢事情按计划进行</p></li><li><p>宅</p></li><li><p>极其厌恶大众的东西</p></li><li><p>喜欢猫</p></li><li><p>免疫蚊子</p></li><li><p>真·佛系</p></li><li><p>怎么吃都不胖</p></li><li><p>相信心之壁的存在</p></li></ul><h1 id="balabalabal"><a href="#balabalabal" class="headerlink" title="balabalabal"></a>balabalabal</h1><p>自知文字写的很烂，感谢正在看的你，最近要开始忙着找工作了，应该不会更新了，以后可能会有一些技术向的文章，java方面的，有兴趣可以继续关注</p>]]></content>
+    </entry>
+    
+  
+</search>
